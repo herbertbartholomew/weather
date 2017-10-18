@@ -17,4 +17,8 @@ This questions simply asks for what type of data you want to process; rainfall
 or temperature recordings
 
 
+How to interpret results:
+The program outputs, the threshold value calculated by two methods A and B and when these values occur
+  1. Missing Data:
+    If there is missing data 
 https://stackoverflow.com/questions/3787908/python-determine-if-all-items-of-a-list-are-the-same-item
